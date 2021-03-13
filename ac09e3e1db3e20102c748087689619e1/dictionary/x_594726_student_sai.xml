@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="sai" max_length="40" name="x_594726_student_sai" type="collection"/>
+    <element label="sai" max_length="40" name="x_594726_student_sai" sizeclass="0" type="collection"/>
 </database>
